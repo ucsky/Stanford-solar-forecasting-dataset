@@ -1,0 +1,11 @@
+name: SUNSET
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.6.1
+  - pip:
+    - -r requirements.txt
+
+    
