@@ -5,4 +5,4 @@ opencv_python==4.5.3.56
 pandas==1.1.5
 scipy==1.5.4
 tensorflow==2.4.1
-jupyter==1.0.0
+-r requirements/jupyter.txt
